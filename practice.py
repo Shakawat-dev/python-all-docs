@@ -1,8 +1,8 @@
 # Find out the given Bangla words meaning #
 myWordsList = {
-  'patil':'container',
-  'mog':'jar',
-  'baksho':'box'
+    'patil':'container',
+    'mog':'jar',
+    'baksho':'box'
 }
 print('Options are :',myWordsList.keys())
 a = input('Enter your Bangla words: ')
